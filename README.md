@@ -1,4 +1,4 @@
-Sistema de Gestão de Recursos Humanos
+💼 Sistema de Gestão de Recursos Humanos
 
 Este projeto acadêmico foi desenvolvido com o objetivo de criar uma solução prática para a gestão de Recursos Humanos, voltada especialmente para microempreendedores, pequenos empresários e comércios de bairro.
 
